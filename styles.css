@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    font-family: 'Prompt', sans-serif;
+    background-color: rgb(16, 10, 100);
+    color: white;
+  }
+  
+  .title {
+    color: rgb(255, 255, 255);
+  }
+  
+  #mainContent {
+    background-color: rgba(13, 13, 14, 0.826);
+    display: stretch;
+    align-items:flex-start;
+    padding: 10px 10px 10px 10px;
+    border: 3px solid rgb(223, 217, 203);
+    border-radius: 10px;
+    margin: 20px;
+    font-family: 'Prompt', sans-serif;
+    font-size: 16px;
+    color: rgb(254, 255, 255);
+  
+  }
+  
+  h1 {
+    color: rgb(9, 9, 8);
+    text-transform: unset;
+    align-self: baseline;
+    
+  }
+  
+  p {
+    color: rgb(252, 252, 252);
+    font-size: 20px;
+  }
+  
+  nav {
+    background-color: rgb(246, 241, 224);
+    border:  3px solid rgb(49, 44, 33);
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    font-size: 33px;
+  }  
+
+  nav a {
+    text-decoration:overline;
+    color: black;
+    border:  0px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 20px 0px 20px 0px;
+  }
+  
+  img {
+    width: 100%;
+    height: auto; 
+  }
+
+  .centered {
+    display: block;
+    margin: auto;
+  }
+  
+  .halfSize {
+    width: 50%;
+  
+  }
+  
+  body {
+    background-image: url("gold.jpg");
+    background-repeat: no-repeat;  
+    background-size: cover;        
+   
+  }
+  button{
+    padding: 20px;
+    background-color: rgba(235, 168, 100, 0.657);
+    border-radius: 8px;
+    color: rgb(4, 4, 4);
+    font-family: 'Prompt', sans-serif;
+
+  }
+  img{
+    align-items: center;
+  }
+
+  #mainContent2 {
+    background-color: rgba(13, 13, 14, 0.826);
+    display: inline-block;
+    align-items:stretch;
+    padding: 10px 0px 30px 10px;
+    border: 3px solid rgb(223, 217, 203);
+    border-radius: 5px;
+    margin: 20px;
+    font-family: 'Prompt', sans-serif;
+    
+  }
+  
